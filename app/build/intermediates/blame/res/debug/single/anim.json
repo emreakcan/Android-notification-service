@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/home/emre/Documents/myAndroid/SOSYALL/AndroidNotificationonBackground/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/home/emre/.android/build-cache/a63ae463311f24bc9e0316a393e1e7a65a600eda/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/home/emre/Documents/myAndroid/SOSYALL/AndroidNotificationonBackground/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/home/emre/.android/build-cache/a63ae463311f24bc9e0316a393e1e7a65a600eda/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/home/emre/Documents/myAndroid/SOSYALL/AndroidNotificationonBackground/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/home/emre/.android/build-cache/a63ae463311f24bc9e0316a393e1e7a65a600eda/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/home/emre/Documents/myAndroid/SOSYALL/AndroidNotificationonBackground/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/home/emre/.android/build-cache/a63ae463311f24bc9e0316a393e1e7a65a600eda/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/home/emre/Documents/myAndroid/SOSYALL/AndroidNotificationonBackground/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/home/emre/.android/build-cache/a63ae463311f24bc9e0316a393e1e7a65a600eda/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/home/emre/Documents/myAndroid/SOSYALL/AndroidNotificationonBackground/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/home/emre/.android/build-cache/a63ae463311f24bc9e0316a393e1e7a65a600eda/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/home/emre/Documents/myAndroid/SOSYALL/AndroidNotificationonBackground/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/home/emre/.android/build-cache/a63ae463311f24bc9e0316a393e1e7a65a600eda/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/home/emre/Documents/myAndroid/SOSYALL/AndroidNotificationonBackground/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/home/emre/.android/build-cache/a63ae463311f24bc9e0316a393e1e7a65a600eda/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/home/emre/Documents/myAndroid/SOSYALL/AndroidNotificationonBackground/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/home/emre/.android/build-cache/a63ae463311f24bc9e0316a393e1e7a65a600eda/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/home/emre/Documents/myAndroid/SOSYALL/AndroidNotificationonBackground/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/home/emre/.android/build-cache/a63ae463311f24bc9e0316a393e1e7a65a600eda/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    }
+]

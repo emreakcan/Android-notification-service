@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/emre/Documents/myAndroid/SOSYALL/AndroidNotificationonBackground/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/home/emre/.android/build-cache/a63ae463311f24bc9e0316a393e1e7a65a600eda/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/home/emre/Documents/myAndroid/SOSYALL/AndroidNotificationonBackground/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/home/emre/.android/build-cache/a63ae463311f24bc9e0316a393e1e7a65a600eda/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    }
+]

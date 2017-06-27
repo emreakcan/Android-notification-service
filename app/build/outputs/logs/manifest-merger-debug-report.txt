@@ -1,0 +1,113 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/emre/Documents/myAndroid/SOSYALL/AndroidNotificationonBackground/app/src/main/AndroidManifest.xml:2:1-37:12
+	package
+		ADDED from /home/emre/Documents/myAndroid/SOSYALL/AndroidNotificationonBackground/app/src/main/AndroidManifest.xml:3:5-63
+		INJECTED from /home/emre/Documents/myAndroid/SOSYALL/AndroidNotificationonBackground/app/src/main/AndroidManifest.xml
+		INJECTED from /home/emre/Documents/myAndroid/SOSYALL/AndroidNotificationonBackground/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/emre/Documents/myAndroid/SOSYALL/AndroidNotificationonBackground/app/src/main/AndroidManifest.xml
+		INJECTED from /home/emre/Documents/myAndroid/SOSYALL/AndroidNotificationonBackground/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/emre/Documents/myAndroid/SOSYALL/AndroidNotificationonBackground/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /home/emre/Documents/myAndroid/SOSYALL/AndroidNotificationonBackground/app/src/main/AndroidManifest.xml
+		INJECTED from /home/emre/Documents/myAndroid/SOSYALL/AndroidNotificationonBackground/app/src/main/AndroidManifest.xml
+application
+ADDED from /home/emre/Documents/myAndroid/SOSYALL/AndroidNotificationonBackground/app/src/main/AndroidManifest.xml:5:5-34:19
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/emre/.android/build-cache/a63ae463311f24bc9e0316a393e1e7a65a600eda/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/emre/.android/build-cache/5eeac4d2a6e525d77882cd82bf4ab58015f73cb0/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/emre/.android/build-cache/4f2c28001c56ff15813b6c1ec7431ae7bb8ee501/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/emre/.android/build-cache/8f368517de5c0ad2903b3b7f26479cea2d4b5db1/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/emre/.android/build-cache/7094def64b0286f7c19e43d212f24db6b5692b48/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/emre/.android/build-cache/e659d04ded58fcb2a9459bbddf50f080165d129d/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/emre/.android/build-cache/3920038b2e78ebbdcaa73ccbced7306b00a8d4b6/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/emre/.android/build-cache/5d459ff384a0a36840117d37f375b9dda4a239d6/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/emre/.android/build-cache/af93911fe88b17cc81efc81509e6a1a421710207/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/emre/.android/build-cache/fec6379af655ef252684f3f339b8fb9c4a8264a4/output/AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from /home/emre/Documents/myAndroid/SOSYALL/AndroidNotificationonBackground/app/src/main/AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from /home/emre/Documents/myAndroid/SOSYALL/AndroidNotificationonBackground/app/src/main/AndroidManifest.xml:10:9-35
+	android:roundIcon
+		ADDED from /home/emre/Documents/myAndroid/SOSYALL/AndroidNotificationonBackground/app/src/main/AndroidManifest.xml:9:9-54
+	android:allowBackup
+		ADDED from /home/emre/Documents/myAndroid/SOSYALL/AndroidNotificationonBackground/app/src/main/AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from /home/emre/Documents/myAndroid/SOSYALL/AndroidNotificationonBackground/app/src/main/AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from /home/emre/Documents/myAndroid/SOSYALL/AndroidNotificationonBackground/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.example.emre.androidnotificationonbackground.MainActivity
+ADDED from /home/emre/Documents/myAndroid/SOSYALL/AndroidNotificationonBackground/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /home/emre/Documents/myAndroid/SOSYALL/AndroidNotificationonBackground/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/emre/Documents/myAndroid/SOSYALL/AndroidNotificationonBackground/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /home/emre/Documents/myAndroid/SOSYALL/AndroidNotificationonBackground/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /home/emre/Documents/myAndroid/SOSYALL/AndroidNotificationonBackground/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/emre/Documents/myAndroid/SOSYALL/AndroidNotificationonBackground/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /home/emre/Documents/myAndroid/SOSYALL/AndroidNotificationonBackground/app/src/main/AndroidManifest.xml:16:27-74
+service#com.example.emre.androidnotificationonbackground.MyService
+ADDED from /home/emre/Documents/myAndroid/SOSYALL/AndroidNotificationonBackground/app/src/main/AndroidManifest.xml:19:9-23:19
+	android:enabled
+		ADDED from /home/emre/Documents/myAndroid/SOSYALL/AndroidNotificationonBackground/app/src/main/AndroidManifest.xml:21:13-35
+	android:exported
+		ADDED from /home/emre/Documents/myAndroid/SOSYALL/AndroidNotificationonBackground/app/src/main/AndroidManifest.xml:22:13-36
+	android:name
+		ADDED from /home/emre/Documents/myAndroid/SOSYALL/AndroidNotificationonBackground/app/src/main/AndroidManifest.xml:20:13-38
+receiver#com.example.emre.androidnotificationonbackground.Autostart
+ADDED from /home/emre/Documents/myAndroid/SOSYALL/AndroidNotificationonBackground/app/src/main/AndroidManifest.xml:25:9-30:20
+	android:name
+		ADDED from /home/emre/Documents/myAndroid/SOSYALL/AndroidNotificationonBackground/app/src/main/AndroidManifest.xml:25:19-44
+intent-filter#android.intent.action.BOOT_COMPLETED+android.intent.action.NEW_OUTGOING_CALL
+ADDED from /home/emre/Documents/myAndroid/SOSYALL/AndroidNotificationonBackground/app/src/main/AndroidManifest.xml:26:13-29:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from /home/emre/Documents/myAndroid/SOSYALL/AndroidNotificationonBackground/app/src/main/AndroidManifest.xml:27:17-79
+	android:name
+		ADDED from /home/emre/Documents/myAndroid/SOSYALL/AndroidNotificationonBackground/app/src/main/AndroidManifest.xml:27:25-76
+action#android.intent.action.NEW_OUTGOING_CALL
+ADDED from /home/emre/Documents/myAndroid/SOSYALL/AndroidNotificationonBackground/app/src/main/AndroidManifest.xml:28:17-81
+	android:name
+		ADDED from /home/emre/Documents/myAndroid/SOSYALL/AndroidNotificationonBackground/app/src/main/AndroidManifest.xml:28:25-79
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from /home/emre/Documents/myAndroid/SOSYALL/AndroidNotificationonBackground/app/src/main/AndroidManifest.xml:35:5-97
+	android:name
+		ADDED from /home/emre/Documents/myAndroid/SOSYALL/AndroidNotificationonBackground/app/src/main/AndroidManifest.xml:35:22-78
+uses-sdk
+INJECTED from /home/emre/Documents/myAndroid/SOSYALL/AndroidNotificationonBackground/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/emre/.android/build-cache/a63ae463311f24bc9e0316a393e1e7a65a600eda/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/emre/.android/build-cache/5eeac4d2a6e525d77882cd82bf4ab58015f73cb0/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/emre/.android/build-cache/4f2c28001c56ff15813b6c1ec7431ae7bb8ee501/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/emre/.android/build-cache/8f368517de5c0ad2903b3b7f26479cea2d4b5db1/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/emre/.android/build-cache/7094def64b0286f7c19e43d212f24db6b5692b48/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/emre/.android/build-cache/e659d04ded58fcb2a9459bbddf50f080165d129d/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/emre/.android/build-cache/3920038b2e78ebbdcaa73ccbced7306b00a8d4b6/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/emre/.android/build-cache/5d459ff384a0a36840117d37f375b9dda4a239d6/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/emre/.android/build-cache/af93911fe88b17cc81efc81509e6a1a421710207/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/emre/.android/build-cache/fec6379af655ef252684f3f339b8fb9c4a8264a4/output/AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/emre/.android/build-cache/a63ae463311f24bc9e0316a393e1e7a65a600eda/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /home/emre/Documents/myAndroid/SOSYALL/AndroidNotificationonBackground/app/src/main/AndroidManifest.xml
+		INJECTED from /home/emre/Documents/myAndroid/SOSYALL/AndroidNotificationonBackground/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/emre/Documents/myAndroid/SOSYALL/AndroidNotificationonBackground/app/src/main/AndroidManifest.xml
+		INJECTED from /home/emre/Documents/myAndroid/SOSYALL/AndroidNotificationonBackground/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/emre/.android/build-cache/a63ae463311f24bc9e0316a393e1e7a65a600eda/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/emre/.android/build-cache/5eeac4d2a6e525d77882cd82bf4ab58015f73cb0/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/emre/.android/build-cache/4f2c28001c56ff15813b6c1ec7431ae7bb8ee501/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/emre/.android/build-cache/8f368517de5c0ad2903b3b7f26479cea2d4b5db1/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/emre/.android/build-cache/7094def64b0286f7c19e43d212f24db6b5692b48/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/emre/.android/build-cache/e659d04ded58fcb2a9459bbddf50f080165d129d/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/emre/.android/build-cache/3920038b2e78ebbdcaa73ccbced7306b00a8d4b6/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/emre/.android/build-cache/5d459ff384a0a36840117d37f375b9dda4a239d6/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/emre/.android/build-cache/af93911fe88b17cc81efc81509e6a1a421710207/output/AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/emre/.android/build-cache/a63ae463311f24bc9e0316a393e1e7a65a600eda/output/AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/emre/.android/build-cache/a63ae463311f24bc9e0316a393e1e7a65a600eda/output/AndroidManifest.xml:26:9-47

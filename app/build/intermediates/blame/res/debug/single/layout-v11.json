@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/emre/Documents/myAndroid/SOSYALL/AndroidNotificationonBackground/app/build/intermediates/res/merged/debug/layout-v11/notification_media_action.xml",
+        "source": "/home/emre/.android/build-cache/a63ae463311f24bc9e0316a393e1e7a65a600eda/output/res/layout-v11/notification_media_action.xml"
+    },
+    {
+        "merged": "/home/emre/Documents/myAndroid/SOSYALL/AndroidNotificationonBackground/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media.xml",
+        "source": "/home/emre/.android/build-cache/a63ae463311f24bc9e0316a393e1e7a65a600eda/output/res/layout-v11/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/home/emre/Documents/myAndroid/SOSYALL/AndroidNotificationonBackground/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow_custom.xml",
+        "source": "/home/emre/.android/build-cache/a63ae463311f24bc9e0316a393e1e7a65a600eda/output/res/layout-v11/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/home/emre/Documents/myAndroid/SOSYALL/AndroidNotificationonBackground/app/build/intermediates/res/merged/debug/layout-v11/notification_media_cancel_action.xml",
+        "source": "/home/emre/.android/build-cache/a63ae463311f24bc9e0316a393e1e7a65a600eda/output/res/layout-v11/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/home/emre/Documents/myAndroid/SOSYALL/AndroidNotificationonBackground/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_custom.xml",
+        "source": "/home/emre/.android/build-cache/a63ae463311f24bc9e0316a393e1e7a65a600eda/output/res/layout-v11/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/home/emre/Documents/myAndroid/SOSYALL/AndroidNotificationonBackground/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow.xml",
+        "source": "/home/emre/.android/build-cache/a63ae463311f24bc9e0316a393e1e7a65a600eda/output/res/layout-v11/notification_template_big_media_narrow.xml"
+    }
+]
